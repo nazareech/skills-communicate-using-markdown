@@ -4,3 +4,5 @@
 #### Hello my friends. This is header <H4>
 ##### Hello my friends. This is header <H5>
 ###### Hello my friends. This is header <H6>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
