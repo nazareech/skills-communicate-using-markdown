@@ -6,3 +6,17 @@
 ###### Hello my friends. This is header <H6>
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```java
+public class Main{
+  public static void Main(String[] args){
+    System.uot.println("Hello world!");
+  }
+}
+```
