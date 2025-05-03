@@ -25,6 +25,7 @@ public class Main{
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+## Alerts
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
@@ -40,3 +41,12 @@ public class Main{
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+Here is a simple footnote[^1].
+
+## Footnotes
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
